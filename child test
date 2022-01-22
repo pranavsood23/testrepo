@@ -1,0 +1,7 @@
+#add test elements
+
+for x in range(10):
+    random_array.append(random.random() * 5 + 15)
+    #random_array.append(random.randint(-10,10))
+
+random_array
